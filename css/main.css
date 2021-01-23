@@ -58,7 +58,8 @@ hr {
 .top-container {
 	background-color: #f8f1f1;
 	position: relative;
-	padding-top: 100px;
+	padding: 100px 0 0 0;
+	margin: 0 auto;
 }
 
 .btn-hello {
@@ -113,8 +114,8 @@ hr {
 }
 
 .laptop-image {
-	padding-top: 0px;
-	margin: 0px;
+	padding-top: 0;
+	margin: 0px auto;
 }
 
 /*Skill Page --------------------------------*/
@@ -180,7 +181,7 @@ hr {
 	border-radius: 10px;
 	background-color: #16c79a;
 	padding: 15px;
-	margin: 200px;
+	margin: 200px auto;
 	color: white;
 	font-family: Verdana Pro;
 	font-size: 1.2rem;
@@ -194,7 +195,7 @@ hr {
 	border-radius: 10px;
 	background-color: #00FFC7;
 	padding: 15px;
-	margin: 200px;
+	margin: 200px auto;
 	color: white;
 	font-family: Verdana Pro;
 	font-size: 1.2rem;
