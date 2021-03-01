@@ -1,0 +1,19 @@
+/*@media (min-width: 960px) and (max-width: 1040px) {
+	
+.laptop-image {
+		
+	}
+	
+}*/
+
+@media (max-width: 950px) {
+.laptop {
+
+}
+
+.laptop-image {
+	display: block;
+	width: 25rem;
+	margin: auto;
+}
+}
