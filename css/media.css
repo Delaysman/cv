@@ -6,14 +6,13 @@
 	
 }*/
 
-@media (max-width: 950px) {
-.laptop {
+@media (max-width: 960px) {
 
-}
 
 .laptop-image {
 	display: block;
-	width: 25rem;
+	width: 90%;
 	margin: auto;
 }
+
 }
